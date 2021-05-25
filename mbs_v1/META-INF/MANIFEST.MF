@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1516020637526
+Bundle-ManifestVersion: 2
+Bundle-Name: jRxTx
+Bundle-SymbolicName: org.openmuc.jrxtx
+Bundle-Version: 1.0.1
+Created-By: 1.8.0_141 (Oracle Corporation)
+Export-Package: gnu.io;version="1.0.1",org.openmuc.jrxtx;version="1.0.
+ 1"
+Import-Package: gnu.io
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.5))"
+Tool: Bnd-3.5.0.201709291849

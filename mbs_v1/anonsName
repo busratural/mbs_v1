@@ -1,0 +1,210 @@
+[
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "MESCIDI SELAM",
+      "MescidiselamTopkapiMesafe": "710",
+      "TopkapiMescidiselam": "TOPKAPI",
+      "TopkapiMescidiselamMesafe": "450"
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "CEBECI",
+      "MescidiselamTopkapiMesafe": "680",
+      "TopkapiMescidiselam": "FETIHKAPI",
+      "TopkapiMescidiselamMesafe": "570"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "SULTANCIFTLIGI",
+      "MescidiselamTopkapiMesafe": "740",
+      "TopkapiMescidiselam": "VATAN",
+      "TopkapiMescidiselamMesafe": "790"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "YENIMAHALLE",
+      "MescidiselamTopkapiMesafe": "770",
+      "TopkapiMescidiselam": "EDIRNEKAPI",
+      "TopkapiMescidiselamMesafe": "610"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "HACISUKRU",
+      "MescidiselamTopkapiMesafe": "710",
+      "TopkapiMescidiselam": "SEHITLIK",
+      "TopkapiMescidiselamMesafe": "530"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "50.YIL",
+      "MescidiselamTopkapiMesafe": "510",
+      "TopkapiMescidiselam": "DEMIRKAPI",
+      "TopkapiMescidiselamMesafe": "600"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "CUMHURIYET",
+      "MescidiselamTopkapiMesafe": "370",
+      "TopkapiMescidiselam": "TOPCULAR",
+      "TopkapiMescidiselamMesafe": "650"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "KIPTAS-VEN.",
+      "MescidiselamTopkapiMesafe": "970",
+      "TopkapiMescidiselam": "RAMI",
+      "TopkapiMescidiselamMesafe": "970"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "KARADENIZ",
+      "MescidiselamTopkapiMesafe": "530",
+      "TopkapiMescidiselam": "ULUYOL",
+      "TopkapiMescidiselamMesafe": "450"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "TASKÖPRU",
+      "MescidiselamTopkapiMesafe": "800",
+      "TopkapiMescidiselam": "SAGMALCILAR",
+      "TopkapiMescidiselamMesafe": "660"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "A. FUAT BASGIL",
+      "MescidiselamTopkapiMesafe": "930",
+      "TopkapiMescidiselam": "CUKURCESME",
+      "TopkapiMescidiselamMesafe": "930"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "CUKURCESME",
+      "MescidiselamTopkapiMesafe": "660",
+      "TopkapiMescidiselam": "A. FUAT BASGIL",
+      "TopkapiMescidiselamMesafe": "800"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "SAGMALCILAR",
+      "MescidiselamTopkapiMesafe": "450",
+      "TopkapiMescidiselam": "TASKÖPRU",
+      "TopkapiMescidiselamMesafe": "530"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "ULUYOL",
+      "MescidiselamTopkapiMesafe": "970",
+      "TopkapiMescidiselam": "KARADENIZ",
+      "TopkapiMescidiselamMesafe": "970"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "RAMI",
+      "MescidiselamTopkapiMesafe": "650",
+      "TopkapiMescidiselam": "KIPTAS-VEN.",
+      "TopkapiMescidiselamMesafe": "370"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "TOPCULAR",
+      "MescidiselamTopkapiMesafe": "600",
+      "TopkapiMescidiselam": "CUMHURIYET",
+      "TopkapiMescidiselamMesafe": "510"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "DEMIRKAPI",
+      "MescidiselamTopkapiMesafe": "530",
+      "TopkapiMescidiselam": "50.YIL",
+      "TopkapiMescidiselamMesafe": "710"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "SEHITLIK",
+      "MescidiselamTopkapiMesafe": "610",
+      "TopkapiMescidiselam": "HACISUKRU",
+      "TopkapiMescidiselamMesafe": "770"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "EDIRNEKAPI",
+      "MescidiselamTopkapiMesafe": "790",
+      "TopkapiMescidiselam": "YENIMAHALLE",
+      "TopkapiMescidiselamMesafe": "740"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "VATAN",
+      "MescidiselamTopkapiMesafe": "570",
+      "TopkapiMescidiselam": "SULTANCIFTLIGI",
+      "TopkapiMescidiselamMesafe": "680"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "FETIHKAPI",
+      "MescidiselamTopkapiMesafe": "450",
+      "TopkapiMescidiselam": "CEBECI",
+      "TopkapiMescidiselamMesafe": "710"
+
+    }
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "TOPKAPI",
+      "MescidiselamTopkapiMesafe": "1",
+      "TopkapiMescidiselam": "MESCIDI SELAM",
+      "TopkapiMescidiselamMesafe": "1"
+
+    }
+
+  },
+  {
+    "istasyon": {
+      "MescidiselamTopkapi": "ssss",
+      "MescidiselamTopkapiMesafe": "1",
+      "TopkapiMescidiselam": "MESCIDI SELAM",
+      "TopkapiMescidiselamMesafe": "1"
+
+    }
+
+  }
+]
